@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\FundamentosCSharp\\Aulas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B2EEA7-2C6D-4FCC-8FBD-C51CAD7588A7}|ProjetoAulas\\ProjetoAulas.csproj|c:\\repositories\\fundamentoscsharp\\aulas\\projetoaulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B2EEA7-2C6D-4FCC-8FBD-C51CAD7588A7}|ProjetoAulas\\ProjetoAulas.csproj|solutionrelative:projetoaulas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B2EEA7-2C6D-4FCC-8FBD-C51CAD7588A7}|ProjetoAulas\\ProjetoAulas.csproj|c:\\repositories\\fundamentoscsharp\\aulas\\projetoaulas\\modulo12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B2EEA7-2C6D-4FCC-8FBD-C51CAD7588A7}|ProjetoAulas\\ProjetoAulas.csproj|solutionrelative:projetoaulas\\modulo12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositories\\FundamentosCSharp\\Aulas\\ProjetoAulas\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoAulas\\Program.cs",
+              "ToolTip": "C:\\Repositories\\FundamentosCSharp\\Aulas\\ProjetoAulas\\Program.cs",
+              "RelativeToolTip": "ProjetoAulas\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:57:35.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modulo12.cs",
+              "DocumentMoniker": "C:\\Repositories\\FundamentosCSharp\\Aulas\\ProjetoAulas\\Modulo12.cs",
+              "RelativeDocumentMoniker": "ProjetoAulas\\Modulo12.cs",
+              "ToolTip": "C:\\Repositories\\FundamentosCSharp\\Aulas\\ProjetoAulas\\Modulo12.cs",
+              "RelativeToolTip": "ProjetoAulas\\Modulo12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:44:57.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

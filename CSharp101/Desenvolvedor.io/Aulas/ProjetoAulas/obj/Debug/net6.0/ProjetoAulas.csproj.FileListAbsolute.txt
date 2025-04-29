@@ -1,0 +1,14 @@
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.AssemblyInfo.cs
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Repositories\FundamentosCSharp\ProjetoAulas\bin\Debug\net6.0\ProjetoAulas.exe
+C:\Repositories\FundamentosCSharp\ProjetoAulas\bin\Debug\net6.0\ProjetoAulas.deps.json
+C:\Repositories\FundamentosCSharp\ProjetoAulas\bin\Debug\net6.0\ProjetoAulas.runtimeconfig.json
+C:\Repositories\FundamentosCSharp\ProjetoAulas\bin\Debug\net6.0\ProjetoAulas.dll
+C:\Repositories\FundamentosCSharp\ProjetoAulas\bin\Debug\net6.0\ProjetoAulas.pdb
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.dll
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\refint\ProjetoAulas.dll
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.pdb
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ProjetoAulas.genruntimeconfig.cache
+C:\Repositories\FundamentosCSharp\ProjetoAulas\obj\Debug\net6.0\ref\ProjetoAulas.dll

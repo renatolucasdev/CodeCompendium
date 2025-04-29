@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorBaixoDosPanos", "PorBaixoDosPanos\PorBaixoDosPanos.csproj", "{F8204621-F3DC-4706-84C1-7B217001D1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8204621-F3DC-4706-84C1-7B217001D1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8204621-F3DC-4706-84C1-7B217001D1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8204621-F3DC-4706-84C1-7B217001D1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8204621-F3DC-4706-84C1-7B217001D1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4C3770-2656-462E-8104-B347FF416085}
+	EndGlobalSection
+EndGlobal
