@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "IntroducaoEFCore\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "IntroducaoEFCore\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:53:56.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
