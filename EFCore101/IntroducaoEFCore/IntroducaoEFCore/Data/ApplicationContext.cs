@@ -10,7 +10,7 @@ namespace IntroducaoEFCore.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //Método que configura o DbContext
         {
             //Informando o provedor de banco de dados e a string de conexão
-            optionsBuilder.UseSqlServer("Server=RENATUS-PC\\SQLEXPRESS;Database=BasicCustomerService;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=RENATUS-PC\\SQLEXPRESS;Database=IntroEFCore;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
