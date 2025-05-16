@@ -6,7 +6,9 @@ namespace IntroducaoEFCore.Data
     public class ApplicationContext : DbContext
     {
         //Propriedade que serve para identificar quais entidades estão envolvidas nas operações. Isso permite que gere os comandos SQL necessários para lidar com os dados dessas entidades. Sem um DbSet, o Entity Framework Core não processa operações com as entidades.
-        public DbSet<Pedido> Pedidos { get; set; } //Todas as classes do Domain serão reconhecidas, pois estão todas relacionadas na classe Pedido
+        public DbSet<Pedido> Pedidos { get; set; } 
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Produto> Produtos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //Método que configura o DbContext
         {
             //Informando o provedor de banco de dados e a string de conexão

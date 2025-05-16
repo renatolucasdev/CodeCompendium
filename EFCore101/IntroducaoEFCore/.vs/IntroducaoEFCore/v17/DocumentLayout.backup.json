@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\migrations\\20250513183026_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\migrations\\20250513183026_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\valueobjects\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\valueobjects\\tipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|c:\\repositories\\codecompendium\\efcore101\\introducaoefcore\\introducaoefcore\\migrations\\20250513183026_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F18E-A5D4-4A5C-B118-AD2D353A126E}|IntroducaoEFCore\\IntroducaoEFCore.csproj|solutionrelative:introducaoefcore\\migrations\\20250513183026_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "TipoProduto.cs",
+              "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\ValueObjects\\TipoProduto.cs",
+              "RelativeDocumentMoniker": "IntroducaoEFCore\\ValueObjects\\TipoProduto.cs",
+              "ToolTip": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\ValueObjects\\TipoProduto.cs",
+              "RelativeToolTip": "IntroducaoEFCore\\ValueObjects\\TipoProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:40:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Migrations\\ApplicationContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "IntroducaoEFCore\\Migrations\\ApplicationContextModelSnapshot.cs",
@@ -43,39 +60,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20250513183026_FirstMigration.cs",
               "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Migrations\\20250513183026_FirstMigration.cs",
               "RelativeDocumentMoniker": "IntroducaoEFCore\\Migrations\\20250513183026_FirstMigration.cs",
               "ToolTip": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Migrations\\20250513183026_FirstMigration.cs",
               "RelativeToolTip": "IntroducaoEFCore\\Migrations\\20250513183026_FirstMigration.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAhwHoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:30:26.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T18:30:26.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Program.cs",
               "RelativeDocumentMoniker": "IntroducaoEFCore\\Program.cs",
               "ToolTip": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Program.cs",
               "RelativeToolTip": "IntroducaoEFCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T18:28:28.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Data\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "IntroducaoEFCore\\Data\\ApplicationContext.cs",
               "ToolTip": "C:\\Repositories\\CodeCompendium\\EFCore101\\IntroducaoEFCore\\IntroducaoEFCore\\Data\\ApplicationContext.cs",
               "RelativeToolTip": "IntroducaoEFCore\\Data\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T19:53:56.877Z",
               "EditorCaption": ""
